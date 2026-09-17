@@ -50,8 +50,8 @@ section#social{
 }
 
 section#social img{
-    width: 60px;
-    border-radius: 50%;
+    width: 80px;
+    border-radius: 25%;
     margin: 10px;
     box-shadow: 2px 2px 5px black;
     box-sizing: border-box;
